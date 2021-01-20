@@ -16,7 +16,7 @@
 		"prestart": "echo \" this is pre start \"",
 		"start": "echo \" this is start \"",
 		"poststart": "echo \" this is post start \"",
-		"preinstall": "echo \" this is pre install \"",
+		"preinstall": "touch hello.js",
 		"install": "echo \" this is install \"",
 		"postinstall": "echo \" this is post install \"",
 		"prepublish": "echo \" this is pre install \"",

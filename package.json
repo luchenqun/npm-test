@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "bin" : {
-    "main":"bin/main.js",
-    "dev":"bin/dev.js"
-  },
   "scripts": {
     "pretest" : "echo \" this is pre test \"",
     "test" : "echo \" this is test \"",
